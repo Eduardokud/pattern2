@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3bcwo1yelgjhaaqg?svg=true)](https://ci.appveyor.com/project/Eduardokud/pattern2-g8pr2)
+[![Build status](https://ci.appveyor.com/api/projects/status/c7x0cwhj6uv521qs?svg=true)](https://ci.appveyor.com/project/Eduardokud/pattern2)
